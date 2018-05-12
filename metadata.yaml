@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13945#Sunny-Memories-Of-Foreign-Lands-Volume-1
 gutenberg_issued: '2004-11-04'
 gutenberg_type: Text
 identifiers:
